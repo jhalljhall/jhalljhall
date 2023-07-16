@@ -4,9 +4,9 @@
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## 😃 Talk to me about!!
+## 😃 Talk to me about...
 
-- Learning to code using **HTML, JavaScript, CSS, Bootstrap, React, Laravel, Google Cloud**
+- **Generative AI, Conversational AI, Flutter, Firebase, HTML, JavaScript, CSS, Bootstrap, React, Laravel, PHP, Python, Django, Google Cloud**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
 
