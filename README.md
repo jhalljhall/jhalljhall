@@ -6,19 +6,19 @@
 
 ## 😃 Talk to me about...
 
-- **Generative AI
-- **Conversational AI
-- **Flutter
-- **Firebase
-- **HTML
-- **JavaScript
-- **CSS
-- **Bootstrap
-- **React
-- **Laravel
-- **PHP
-- **Python
-- **Django
+- **Generative AI**
+- **Conversational AI**
+- **Flutter**
+- **Firebase**
+- **HTML**
+- **JavaScript**
+- **CSS**
+- **Bootstrap**
+- **React**
+- **Laravel**
+- **PHP**
+- **Python**
+- **Django**
 - **Google Cloud**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
