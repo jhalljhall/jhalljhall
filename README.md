@@ -10,18 +10,12 @@
 
 - **Generative AI**
 - **Conversational AI**
-- **Flutter**
-- **Firebase**
-- **HTML**
-- **JavaScript**
-- **CSS**
-- **Bootstrap**
-- **React**
-- **Laravel**
-- **PHP**
-- **Python**
-- **Django**
-- **Google Cloud**
+- **Interactive AI**
+- **Flutter, Firebase, Google Cloud**
+- **HTML, JavaScript, CSS, Bootstrap**
+- **React, Next.js, Node.js**
+- **Laravel, Drupal, PHP, MySQL**
+- **Python, LangChain, LangFlow, Django**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
 
