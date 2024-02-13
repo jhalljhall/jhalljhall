@@ -17,8 +17,9 @@
 - **Laravel, Drupal, PHP, MySQL**
 - **Python, LangChain, LangFlow, Django**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
-![ChatGPT Demo - Slide Deck](https://docs.google.com/presentation/d/1n6Yyf-UkpOWE9ZLqLVoI77MnL2W33981hRXBydJspyM/edit?usp=sharing)
+[github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
+
+[ChatGPT Demo - Slide Deck](https://docs.google.com/presentation/d/1n6Yyf-UkpOWE9ZLqLVoI77MnL2W33981hRXBydJspyM/edit?usp=sharing)
 
 ---
 
