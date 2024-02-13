@@ -15,7 +15,7 @@
 - **HTML, JavaScript, CSS, Bootstrap**
 - **React, Next.js, Node.js**
 - **Laravel, Drupal, PHP, MySQL**
-- **Python, LangChain, LangFlow, Django**
+- **Python, LangChain, LangFlow, FastAPI, OpenCV**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jhalljhall&show_icons=true)
 
